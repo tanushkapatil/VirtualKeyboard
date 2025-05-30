@@ -42,8 +42,8 @@ class Button:
 
 buttonList = []
 start_x, start_y = 50, 150
-key_width, key_height = 75, 75
-h_spacing, v_spacing = 8, 8
+key_width, key_height = 85, 85
+h_spacing, v_spacing = 10, 10
 
 for row_idx, row in enumerate(keys):
     for col_idx, key in enumerate(row):
