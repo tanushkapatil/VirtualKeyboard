@@ -27,7 +27,7 @@ A real-time virtual keyboard controlled by hand gestures using OpenCV, CVZone, a
 
 ## 🖼️ UI Preview
 
-> ![Screenshot of virtual keyboard interface](assets/screenshot.png)  
+![Screenshot of virtual keyboard interface](assets/screenshot.png)  
 > *Hand gesture pointing and typing interface with on-screen keyboard overlay*
 
 ---
